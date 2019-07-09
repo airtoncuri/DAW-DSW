@@ -1,0 +1,51 @@
+*{margin: 0; padding: 0}
+
+body {
+	font-family: helvetica, arial;
+	font-size: 21px;
+	color: black;
+}
+
+header {
+	height: 90px;
+	background-color: black;
+}
+
+
+
+
+
+footer {
+	height: 50px;
+	background-color: #44b874;
+	padding: 10px 0;
+	color: #333;
+	text-align: center;
+	font-size: 12px;
+}
+
+
+#conteudo {
+	padding: 100px 0;
+}
+
+#menu {
+	float: right;
+	padding: 18px 0; 
+}
+
+#menu a{
+	text-decoration:none;
+	padding: 20px 30px;
+	color:black;
+}
+#menu a:hover{
+ background-color: black;
+ color: white;
+}
+
+
+
+
+
+
